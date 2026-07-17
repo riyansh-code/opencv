@@ -1,4 +1,4 @@
-#Step 1: Import the Lobraries and the image
+#Step 1: Import the Libraries and the image
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
